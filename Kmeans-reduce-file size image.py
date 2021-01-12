@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 import numpy
 
-img = plt.imread("b.jpg")
+img = plt.imread("a.jpg")
  
 width = img.shape[0]
 height = img.shape[1]
